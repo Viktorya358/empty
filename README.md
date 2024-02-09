@@ -4,3 +4,4 @@
 - I like Netology
 - I have a cat
 - I like cold weather
+- I am a teacher
